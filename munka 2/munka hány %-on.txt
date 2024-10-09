@@ -1,0 +1,26 @@
+verzió: nyílt béta 0.57
+***********************
+*2024/10/08-2024/10/09*
+***********************
+7 óra telt el (18:30) (zárva)
+állapot: 65-70%
+
+--------------------------------------------
+
+epikk-kereso-motor44!4!.html 100% (keresés)
+foci.html                    100% (Legújabb)
+foci.BOLT.html               100% (bolt)
+foci-TOBB.html               100% (Több)
+foci-TRAFF.html              100% (Régi Trafford)
+foci-JATEKOSOK.html          100% (Játékosok)
+foci-MUTV.html               100% (Mutv)
+
+---------------------------------------------
+maradt:
+
+Mecs ideje
+Én unitedem
+Rajongók
+Játékosokhoz részlet
+
+---------------------------------------------
