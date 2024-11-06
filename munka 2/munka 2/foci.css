@@ -1,0 +1,35 @@
+
+header {
+    background-color: #d70b2d;
+    color: white;
+    padding: 15px 0;
+}
+
+        #kereso {
+            width: 100%;
+            margin: auto;
+            background-color: brown;
+        }
+
+        nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+}
+   
+#lapok {
+    height: 200px;
+    width: 200px;
+    background-color: grays;
+}
